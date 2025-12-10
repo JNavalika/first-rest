@@ -9,6 +9,7 @@ public class FirstRestApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(FirstRestApplication.class, args);
 		System.out.println("sdfghjk");
+		System.out.println("abcdef");
 	}
 
 }

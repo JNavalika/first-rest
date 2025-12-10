@@ -10,6 +10,7 @@ public class FirstRestApplication {
 		SpringApplication.run(FirstRestApplication.class, args);
 		System.out.println("sdfghjk");
 		System.out.println("abcdef");
+		System.out.println("lkjhgf");
 	}
 
 }
